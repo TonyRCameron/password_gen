@@ -1,6 +1,5 @@
 # password_gen
 #A simple password generator
-
 """
 Generate a password
 Strong passwords have a mix of lowercase letters, uppercase, numbers and
